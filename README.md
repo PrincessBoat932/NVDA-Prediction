@@ -32,6 +32,7 @@ install.packages("ggfortify")
 install.packages("fpp2")
 install.packages("quantmod")
 ```
+---
 ## Images
 
 NVDA stock over time:
