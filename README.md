@@ -31,3 +31,13 @@ install.packages("ggplot2")
 install.packages("ggfortify")
 install.packages("fpp2")
 install.packages("quantmod")
+```
+## Images
+
+NVDA stock over time:
+
+![13051985-fc7f-4e2a-a927-bf9e50c44c97](https://github.com/user-attachments/assets/177788c8-a120-408c-a6d0-159deaa220d6)
+
+NVDA stock with 12 month forcast:
+
+![b1e920c5-c7a8-46b3-b481-210e069fac31](https://github.com/user-attachments/assets/2eafb794-f842-4f4e-b2cc-cc11a5e77653)
